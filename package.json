@@ -1,7 +1,7 @@
 {
 	"name": "com.poppod.package_example",
 	"displayName": "POPPOD Example",
-	"version": "0.1",
+	"version": "1.0",
 	"unity": "2018.1",
 	"description": "Test by pop.",
 	"keywords": ["Example"],
