@@ -6,6 +6,6 @@
 	"description": "Test by pop.",
 	"keywords": ["Example"],
 	"dependencies": {
-        "com.unity.textmeshpro": "3.0.6"
+        
 	}
 }
