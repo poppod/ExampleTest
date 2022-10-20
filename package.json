@@ -1,0 +1,11 @@
+{
+	"name": "com.poppod.packageExample",
+	"displayName": "POPPOD Example",
+	"version": "0.1",
+	"unity": "2018.1",
+	"description": "Test by pop.",
+	"keywords": ["Example"],
+	"dependencies": {
+        "com.unity.textmeshpro": "3.0.6"
+	}
+}
